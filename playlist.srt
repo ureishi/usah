@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 99:99:99,999
+//コメントアウト
+#コメントアウト
+//------
+#「L,」「l,」で始めることでLive再生
+//------
+<color=orange>★usah/playlist.srt</color>
+dummy
+//------
+情熱大陸＃1140「サイバー技術開発集団 統括・登大遊」
+L,https://tver.jp/episode/82100509
+//------
+【ダフニー】flos 歌ってみた - YuNi
+https://www.youtube.com/watch?v=OF5MVNyiF38

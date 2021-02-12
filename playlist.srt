@@ -4,15 +4,11 @@
 #コメントアウト
 //------
 #「L,」「l,」で始めることでLive再生
-//------
-<color=orange>★usah/playlist.srt</color>
+<color=orange><b>★usah/playlist.srt</b></color>
 dummy
-//------
 情熱大陸＃1140「サイバー技術開発集団 統括・登大遊」
 L,https://tver.jp/episode/82100509
-//------
 【ダフニー】flos 歌ってみた - YuNi
 https://www.youtube.com/watch?v=OF5MVNyiF38
-//------
 ・ω・
 https://www.youtube.com/watch?v=bSt6QSa2QKs
